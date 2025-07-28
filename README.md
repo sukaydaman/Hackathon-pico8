@@ -5,7 +5,8 @@ A simple pico-8 game I made for my first hackathon project.
 
 A physics-based coin collection game made with Pico-8.
 
-<img width="128" height="128" alt="coin_collector" src="https://github.com/user-attachments/assets/69e404cb-82fd-401f-8a4f-1d9badce4c9e" />
+<img width="128" height="128" alt="_label" src="https://github.com/user-attachments/assets/44df4e69-b616-4ced-89e5-499932c07143" />
+
 
 
 
